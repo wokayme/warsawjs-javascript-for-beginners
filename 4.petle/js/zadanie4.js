@@ -1,0 +1,1 @@
+let array=["pętle","są","super","fajne"];
