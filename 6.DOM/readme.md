@@ -2,8 +2,8 @@
 
 ### Pobieranie elementów
 1. Pobierz element o id `mojnaglowek` i zmień jego treść na "Javascript jest super"
-2. Pobierz input o id `coTutajJestNapisane` i zwróc jego zawartość w konsoli, a następnie podmień jego treść na nowy tekst
-3. Przepisz zawartość inputa z zadania 2go to treśći nagłówka z zadania 1go
+2. Pobierz input o id `coTutajJestNapisane` i zwró jego zawartość w konsoli, a następnie podmień jego treść na nowy tekst
+3. Przepisz zawartość inputa z zadania 2go to treści nagłówka z zadania 1go
 
 
 
@@ -27,7 +27,7 @@
         msg: "Ale super ten warsztat robimy już czary mary"
     }
 ```
-4. Żadko kiedy dostajemy od serwera pojedyńczą tablicę, tym razem dostaliśmy listę z wieloma komentarzami i warto było by ją wyświetlić...
+4. Rzadko kiedy dostajemy od serwera pojedyńczą tablicę, tym razem dostaliśmy listę z wieloma komentarzami i warto było by ją wyświetlić...
 Podejmiesz wyzwanie? Tutaj lista:
 
 ```
