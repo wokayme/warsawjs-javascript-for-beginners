@@ -5,7 +5,7 @@ Example: For variables `'Krzysztof'`, `'Wokay'` console should write `'Hey Krzys
 2. Create variable which contains your Age, Later create variable named: `myAgeIn10Years` which will contain your age in next 10 years
 3. Execute code belowe
 ```
-    let tellMeSth = "Kim ty ku@!@# jesteś?";
+    let tellMeSth = "Who are you?";
     let whoIAm = prompt(tellMeSth);
     
     //What is WhoIAm??
